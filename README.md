@@ -53,8 +53,7 @@ Aulas de musica
     <p>&copy; 2025 Nota Certa - Professor Samuel Schneider</p>
   </footer>
 </body>
-</html>
-Salve esse código como Index.html/* Reset básico */
+</html>  Reset básico */
 * {
   margin: 0;
   padding: 0;
