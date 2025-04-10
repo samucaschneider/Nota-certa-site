@@ -1,6 +1,6 @@
-# Nota-certa-site
-Aulas de musica
-<!DOCTYPE html><html lang="pt-BR">
+n-top: 40px;
+  font-size: 0.9rem;
+}<!DOCTYPE html><html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -53,7 +53,8 @@ Aulas de musica
     <p>&copy; 2025 Nota Certa - Professor Samuel Schneider</p>
   </footer>
 </body>
-</html>  Reset básico */
+</html>
+/* Reset básico */
 * {
   margin: 0;
   padding: 0;
